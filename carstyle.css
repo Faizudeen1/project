@@ -117,7 +117,7 @@ img{
 		text-align:center;
 	}
 	.image{
-		width:100%;
+		width:90%;
 		position: absolute;
 		bottom:-5%;
 		display:flex;
