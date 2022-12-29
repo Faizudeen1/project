@@ -117,14 +117,14 @@ img{
 		text-align:center;
 	}
 	.image{
-		width:80%;
+		width:100%;
 		position: absolute;
 		bottom:-5%;
 		display:flex;
 		justify-content:center;
 	}
 	img{
-		width:30rem;
+		width:20rem;
 	}
 }
 @media screen and (max-width:800px) {
