@@ -112,10 +112,6 @@ img{
 	}
 }
 @media screen and (max-width:1200px) {
-	body{
-		width:100%;
-		overflow:hidden;
-	}
 	.content{
 		width:100%;
 		text-align:center;
@@ -128,7 +124,7 @@ img{
 		justify-content:center;
 	}
 	img{
-		width:15rem;
+		width:20rem;
 	}
 }
 @media screen and (max-width:800px) {
